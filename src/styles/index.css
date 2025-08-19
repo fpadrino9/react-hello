@@ -9,3 +9,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.BARRA{
+    background-color: rgb(85, 82, 82);
+   
+}
+.text1{
+    color:white;
+}
+.bluetext{
+    color: blue;
+}
